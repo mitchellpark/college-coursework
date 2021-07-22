@@ -1,0 +1,39 @@
+unique
+------				unsorted     	sorted 		hashing
+GreenEggsAndHam.txt             0.014		0.012		0.014
+Macbeth.txt                     0.132		0.045		0.017
+Genesis.txt                     0.130		0.040		0.029
+HoundOfTheBaskervilles.txt      0.280   	0.087		0.032
+TheWarOfTheWorlds.txt           0.344		0.104		0.039
+TreasureIsland.txt              0.316		0.096		0.038
+TheSecretGarden.txt             0.300		0.085		0.041
+TwentyThousandLeagues.txt       0.604		0.152		0.051
+TheCountOfMonteCristo.txt       2.750		0.386		0.0124
+Bible.txt            		2.933		0.369		0.0154
+
+
+parity
+------
+				unsorted  	sorted		hashing
+GreenEggsAndHam.txt             0.011    	0.011		0.012
+Macbeth.txt                     0.290		0.108		0.018
+Genesis.txt                     0.352     	0.122		0.023
+HoundOfTheBaskervilles.txt      1.110     	0.294		0.029
+TheWarOfTheWorlds.txt           1.287     	0.325		0.031
+TreasureIsland.txt              1.319     	0.333		0.031
+TheSecretGarden.txt             1.227     	0.332		0.025
+TwentyThousandLeagues.txt       3.060     	0.586		0.042
+TheCountOfMonteCristo.txt       28.880		3.850		0.118
+Bible.txt                       29.210		3.730		0.145
+	
+		Strings Generic
+Complexity
+------------
+createSet: 	O(n)	O(n)
+destroySet: 	O(n)	O(1)
+findElement:	O(n)	O(n)
+addElement: 	O(n)	O(n)
+removeElement: 	O(n) 	O(n)
+
+
+
