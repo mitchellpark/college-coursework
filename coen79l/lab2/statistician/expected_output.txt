@@ -1,0 +1,62 @@
+--- s1 prints ---
+Sum: 2.1
+Mean: 2.1
+Smallest: 2.1
+Largest: 2.1
+
+Sum: -1.3
+Mean: -0.65
+Smallest: -3.4
+Largest: 2.1
+
+Sum: 3.6
+Mean: 1.2
+Smallest: -3.4
+Largest: 4.9
+
+--- s2 prints ---
+Sum: 6.9
+Mean: 6.9
+Smallest: 6.9
+Largest: 6.9
+
+Sum: 4.1
+Mean: 2.05
+Smallest: -2.8
+Largest: 6.9
+
+Sum: 9.7
+Mean: 3.23333
+Smallest: -2.8
+Largest: 6.9
+
+--- s3 print ---
+Sum: 13.3
+Mean: 2.21667
+Smallest: -3.4
+Largest: 6.9
+
+--- erase prints ---
+Sum: 6
+Mean: 6
+Smallest: 6
+Largest: 6
+
+Sum: 6
+Mean: 6
+Smallest: 6
+Largest: 6
+
+s1 is equal to s2
+
+--- scaling test ---
+Sum: 2
+Mean: 1
+Smallest: -1
+Largest: 3
+
+Sum: -6
+Mean: -3
+Smallest: 3
+Largest: -9
+
